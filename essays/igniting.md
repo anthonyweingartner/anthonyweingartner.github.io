@@ -1,19 +1,15 @@
 ---
 layout: essay
 type: essay
-title: "Igniting the fire"
+title: "Small Gains"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2024-01-23
 published: true
 labels:
-  - Software Engineering
   - Learning
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+Ever since I young I had trouble learning. I had a terrible speech impediment and a slow time learning. I was put in extra help class and had a hard time understanding my people's emotions. I had to put a lot of effort to understand emotions and show off my own due to having a hard time understanding. Also I love math but I was terrible at learning but with small steps forward studying I got better at it. Towards the end of middle school I was put in regular classes with a extra help teacher. At the middle of high school I was put in advance math classes. It was very hard and felt like I made no progress compared to the other students. Yet struggle is what helps molds a person into who their are.
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
-
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+Small gains is something I live by because it is how life works. You take small steps forward and its very hard at first. Yet with each step its slightly  easier. Even if you are pushed down getting back up the first time feels draining, but each time you do it. Its get easier and easier to do. Its something that I knew a lot growing up, but to be honest its something I forgot recently due many things in my life. Its something I relearning to do, but now I am also taking small steps in other wise. Going to the gym more and more. Making sure to talk to friends more and make more since success is based on how happy you are. You can be burnt that's the problem with big steps. So take small steps and enjoy how far you have come.
