@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/DND/20dice.PNG
 title: "Making a DnD Campaigns"
 date: 2023
 published: true
