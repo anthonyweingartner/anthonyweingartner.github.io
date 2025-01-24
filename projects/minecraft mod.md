@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/minecraftmod/ab11234.png
+image: img/minecraft mod/ab11234.png
 title: "Minecraft Mod"
 date: 2024
 published: true
